@@ -50,7 +50,7 @@ def solve():
 	buy = sort_buy(parse(get_html(htmlBuy)))
 	sell = parse(get_html(htmlSell))
 	SUMM = 107900.0
-	NET_PROFIT = 500
+	NET_PROFIT = -5000
 	
 	sell_price = (float(sell[0]['Price'])+float(sell[1]['Price']))/2
 	
