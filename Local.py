@@ -2,7 +2,7 @@ from urllib.request import Request, urlopen
 from bs4 import BeautifulSoup
 import config
 import telebot, time
-bot = telebot.TeleBot(config.token)
+bot = telebot.TeleBot("389668792:AAHM3ECLpkvbA56xWIzS4SQ_QB-0WzE4n9w")
 
 htmlBuy = 'https://localbitcoins.net/ru/buy_bitcoins'
 htmlSell = 'https://localbitcoins.net/ru/sell_bitcoins'
