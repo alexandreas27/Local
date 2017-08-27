@@ -6,7 +6,6 @@ idna==2.6
 mp3play==0.1.15
 pygame==1.9.3
 pyglet==1.2.4
-pyobjc==3.2.1
 pyobjc-core==3.2.1
 pyobjc-framework-Accounts==3.2.1
 pyobjc-framework-AddressBook==3.2.1
