@@ -1,1 +1,1 @@
-worker: python Local.py
+web: python Local.py
